@@ -1,7 +1,7 @@
 :root {
   --bg: #f2f4f8;
   --text: #131722;
-  --accent: #ea1e2f;
+  --accent: #1f6bff;
   --dark: #0e1220;
   --card: #ffffff;
   --muted: #6b7484;
@@ -182,7 +182,7 @@ a {
 }
 
 .tag {
-  background: rgba(234, 30, 47, 0.95);
+  background: rgba(31, 107, 255, 0.95);
 }
 
 .section-head {
@@ -225,8 +225,8 @@ a {
 }
 
 .chip {
-  background: #fbe3e6;
-  color: #a11120;
+  background: #e5eeff;
+  color: #1140a6;
 }
 
 .news-card h4 {
